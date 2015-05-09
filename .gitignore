@@ -1,0 +1,10 @@
+target/*
+.classpath
+.project
+.settings/*
+.DS_Store
+*.arff
+*.dat
+*.pdf
+*.gp
+*.iml
